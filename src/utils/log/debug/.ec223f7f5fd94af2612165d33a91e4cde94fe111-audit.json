@@ -1,0 +1,55 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "D:\\Workstation\\Production\\javascript\\node-pi-v1(type)\\src\\utils\\log\\debug\\.ec223f7f5fd94af2612165d33a91e4cde94fe111-audit.json",
+    "files": [
+        {
+            "date": 1696076985976,
+            "name": "D:\\Workstation\\Production\\javascript\\node-pi-v1(type)\\src\\utils\\log\\debug\\2023-09-30.log",
+            "hash": "8e9071a87cb61150f4455052ff0f8620c2d7f44233b5bf340ab74e5ccd39ca2d"
+        },
+        {
+            "date": 1696165122580,
+            "name": "D:\\Workstation\\Production\\javascript\\node-pi-v1(type)\\src\\utils\\log\\debug\\2023-10-01.log",
+            "hash": "39c6a12eb4acaba263f90dceb63104eb7137ac4f223dca77fc2ff4556aed9872"
+        },
+        {
+            "date": 1696223005572,
+            "name": "D:\\Workstation\\Production\\javascript\\node-pi-v1(type)\\src\\utils\\log\\debug\\2023-10-02.log",
+            "hash": "b54438c5f912dcf0a86edf8a61f62955c96d0d2678db511a68aca78a1aa83ac4"
+        },
+        {
+            "date": 1697136123728,
+            "name": "D:\\Workstation\\Production\\javascript\\node-pi-v1(type)\\src\\utils\\log\\debug\\2023-10-12.log",
+            "hash": "8a75bb5b69104bf14ef232fe313d0317d0fdc4e9e3d01de146bfd23f85d4deda"
+        },
+        {
+            "date": 1697320410293,
+            "name": "D:\\Workstation\\Production\\javascript\\node-pi-v1(type)\\src\\utils\\log\\debug\\2023-10-14.log",
+            "hash": "4b3703622947e218855ff91d0e6beff2e03d3a3d22367ab292ef2b5907144097"
+        },
+        {
+            "date": 1697324400113,
+            "name": "D:\\Workstation\\Production\\javascript\\node-pi-v1(type)\\src\\utils\\log\\debug\\2023-10-15.log",
+            "hash": "a8e94029a397a156a437ecca9baaa44083523090ae7702c5f2a10f1f74dec2c4"
+        },
+        {
+            "date": 1704149106876,
+            "name": "D:\\Workstation\\Production\\javascript\\node-pi-v1(type)\\src\\utils\\log\\debug\\2024-01-01.log",
+            "hash": "6e1163ca1d68eaefcb582a9565d43d67938b9bb8a28dc9e057122014dd2aa7eb"
+        },
+        {
+            "date": 1704225549897,
+            "name": "D:\\Workstation\\Production\\javascript\\node-pi-v1(type)\\src\\utils\\log\\debug\\2024-01-02.log",
+            "hash": "7406870aa1add4f3327eb0a01dcf6b04f06851766536f85f66c83bfd20c29278"
+        },
+        {
+            "date": 1704397992857,
+            "name": "D:\\Workstation\\Production\\javascript\\node-pi-v1(type)\\src\\utils\\log\\debug\\2024-01-04.log",
+            "hash": "11e100873570a4ed6ab61d191ed6b9910e143a21dafc4aa6dfa44b28b613bbc6"
+        }
+    ],
+    "hashType": "sha256"
+}
