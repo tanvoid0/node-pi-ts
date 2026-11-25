@@ -20,13 +20,13 @@ class QrCodeController {
 
     generate = async (req: any, res: Response, next: NextFunction) => {
         try {
-            console.log(typeof req.query.anon)
             if (req.query.anon === undefined) {
                 throw new InvalidRequestException("A boolean query value for anon is required");
             } else if (req.user == undefined || req.user.id == undefined) {
                 throw new InvalidRequestException("Invalid Authentication user id.");
             }
             const request: QRGenerateRequest = {anon: req.query.anon == "true", ownerId: req.user.id};
+            console.log(`A qr code generate request was made by user ${req.user.name} in ${req.query.anon ? 'non ' : ' '}anon mode`)
             res.json(await this.qrService.generate(request));
         } catch(ex) {
             next(ex);

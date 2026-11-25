@@ -17,9 +17,11 @@ export const {
     DB_HOST,
     DB_PORT,
     DB_DATABASE,
-    SECRET_KEY, LOG_FORMAT,
+    SECRET_KEY,
+    LOG_FORMAT,
     LOG_DIR,
-    ORIGIN, JWT_SECRET,
+    ORIGIN,
+    JWT_SECRET,
     JWT_EXPIRES_IN,
     BCRYPT_SALT
 } = process.env;
